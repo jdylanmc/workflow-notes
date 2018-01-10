@@ -1,4 +1,5 @@
 # Workflow / Security
+Note: all diagrams within this document are purely for demonstration, and do not represent any actual workflows or security model used today.
 
 References:
 - [Workflows and the Workbox](https://doc.sitecore.net/sitecore_experience_platform/82/content_authoring/managing_items/workflows/workflows_and_the_workbox)
