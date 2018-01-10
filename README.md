@@ -90,3 +90,13 @@ References:
 - When approving changes in experience editor, you can enable SCORE's `approve with datasources` helper: https://brainjocks.atlassian.net/wiki/spaces/SDD/pages/114525507/Workflow+Approval+Configuration
 - Workbox is not very intuitive and difficult to navigate.  May be worthwhile to create powershell utilities for approvers.
   - Example: right click sub-tree in content editor, and select a script for "Approve Items"
+
+## Takeaways
+
+- Use populus as the model for Security workflow and Security roles
+- Add SCORE Approve with Datasources feature, and just make it say 'Approve'
+- No need for simple user
+- Powershell utilities for:
+  - Report of what I can approve?
+  - Report of what is in workflow
+  - Utility to bulk approve?
